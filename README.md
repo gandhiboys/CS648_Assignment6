@@ -2,8 +2,7 @@
 This is the _Assignment 6_ of course **CS-648**
 
 #### Abstract
-The sixth assignment revolves around introduction to JavaScript. 
-This assignment is about multiple basic javascripts.
+The sixth task is about learning about JavaScript. This assignment consists of several simple javascripts.
 
 ### Introduction
 This is based on the sixth assignment on JavaScript. 
